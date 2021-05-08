@@ -14,7 +14,7 @@ class RoundedIconButton extends StatelessWidget {
       fillColor: Color(0xFFFAE160),
       shape: CircleBorder(),
       child: Icon(icons,
-        color: Color(0xFFFD7A45),),
+        color: Color(0xFF111820),),
       constraints: BoxConstraints.tightFor(
         width: 56.0,
         height: 56.0,
